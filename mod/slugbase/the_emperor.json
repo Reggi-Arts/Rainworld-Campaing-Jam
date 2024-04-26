@@ -1,0 +1,11 @@
+{
+	"id": "Emperor",
+	"name": "The Emperor",
+	"description": "A recolored copy of The Survivor that demonstrates some custom SlugBase features.<LINE>This is a template mod for SlugBase.",
+	"features": {
+		"color": "f5384a",
+		"select_menu_scene": "Slugcat_Emperor",
+		"sleep_scene": "Emperor_Sleep",
+		"select_menu_scene_ascended": "Ghost_Emperor",
+	}
+}
