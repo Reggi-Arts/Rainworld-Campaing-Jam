@@ -10,10 +10,6 @@
             <Private>false</Private>
         </Reference>
     </ItemGroup>
-    
-    <ItemGroup>
-      <Folder Include="Creatures\" />
-    </ItemGroup>
 
 	<Target Name="GenerateMod" AfterTargets="PostBuildEvent">
 		<ItemGroup>

@@ -1,4 +1,6 @@
-﻿namespace TheEmperor;
+﻿using System.Data;
+
+namespace TheEmperor;
 
 public class TEnums
 {
@@ -18,11 +20,15 @@ public class TEnums
 
     public static class CreatureType
     {
-
+        public static CreatureTemplate.Type Pidgeon = new(nameof(Pidgeon), true);
+        public static CreatureTemplate.Type Racoon = new(nameof(Racoon), true);
+        public static CreatureTemplate.Type Rat = new(nameof(Rat), true);
     }
 
     public static class SandboxUnlock
     {
-
+        public static MultiplayerUnlocks.SandboxUnlockID Pidgeon = new(nameof(Pidgeon), true);
+        public static MultiplayerUnlocks.SandboxUnlockID Racoon = new(nameof(Racoon), true);
+        public static MultiplayerUnlocks.SandboxUnlockID Rat = new(nameof(Rat), true);
     }
 }

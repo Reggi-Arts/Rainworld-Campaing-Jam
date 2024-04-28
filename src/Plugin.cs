@@ -28,6 +28,11 @@ class Plugin : BaseUnityPlugin
 
             TEnums.Init();
 
+            Content.Register(
+                new PidgeonCritob(),
+                new RacoonCritob(),
+                new RatCritob());
+
             LogWarning($"{MOD_NAME} is loading... {VERSION}");
         }
         catch (Exception e)
@@ -55,7 +60,12 @@ class Plugin : BaseUnityPlugin
             LogError(ex);
         }
     }
-
+    public void ApplyCreatures()
+    {
+        PidgeonHooks.Apply();
+        RacoonHooks.Apply();
+        RatHooks.Apply();
+    }
     private void LoadAtlases()
     {
         try
