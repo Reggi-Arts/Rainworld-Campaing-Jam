@@ -1,0 +1,13 @@
+{
+	"id": "TheEmperorSleep",
+	"scene_folder": "scenes/TheEmperor - Sleep",
+	"images": [
+		{ "name": "Background", "pos": [492, 297], "depth": 3.7, "shader": "Normal"},
+		{ "name": "Grass 3",    "pos": [602, 264], "depth": 2.2, "shader": "Normal"},
+		{ "name": "Grass 2",    "pos": [446, 283], "depth": 2.0, "shader": "Normal"},
+		{ "name": "Slugcat",    "pos": [605, 427], "depth": 2.8, "shader": "Normal"},
+		{ "name": "Grass 1",    "pos": [515, 265], "depth": 1.8, "shader": "Normal"}
+	],
+	"idle_depths": [ 2.8 ],
+	"slugcat_depth": 2.8
+}
