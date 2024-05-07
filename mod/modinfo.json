@@ -1,9 +1,9 @@
 {
-  "id": "named",
-  "name": "Named",
+  "id": "rainworldcampaignjamtheemperor",
+  "name": "RWCJ The Emperor",
   "version": "0.0.1",
-  "authors": "Author or authors is the question",
-  "description": "Template... by me",
-  "requirements": [],
-  "requirements_names": []
+  "authors": "RCJ team<LINE><LINE>BensoneWhite - Coder<LINE>Farlander - Artist<LINE>Reggi Arts - Leditor, Artist<LINE>Sidera - Musician",
+  "description": "Rainworld Campaign Jam 2024 - The emperor",
+  "requirements": [ "slime-cubed.slugbase", "moreslugcats", "regionkit", "crs", "fisobs" ],
+  "requirements_names": [ "SlugBase", "More Slugcats Expansion", "RegionKit", "Custom Regions Support", "Fisobs" ]
 }

@@ -1,0 +1,15 @@
+Region Jam - 04 Threat - Beat : NEUTRAL
+Region Jam - 05 Threat - Beat2 : NEUTRAL
+Region Jam - 06 Threat - Alt Bass : NEUTRAL
+Region Jam - 07 Threat - SFX : NEUTRAL
+Region Jam - 08 Threat - Full Drums : NEUTRAL
+Region Jam - 09 Threat - Bass : NEUTRAL
+Region Jam - 10 Threat - Melody : NEUTRAL
+
+Layer : Region Jam - 04 Threat - Beat
+Layer : Region Jam - 05 Threat - Beat2
+Layer : Region Jam - 06 Threat - Alt Bass
+Layer : Region Jam - 07 Threat - SFX
+Layer : Region Jam - 08 Threat - Full Drums
+Layer : Region Jam - 09 Threat - Bass
+Layer : Region Jam - 10 Threat - Melody

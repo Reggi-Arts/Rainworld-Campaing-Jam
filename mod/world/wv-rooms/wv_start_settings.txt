@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: None
+Grime: 0.1630435
+BkgDroneVolume: 0.1043479
+Palette: 28
+EffectColorB: 21
+Effects: RoofTopView-0.09782609-20-20, DayNight-0.5-116-107, Bloom-0.1086956-76-67, SandPuffs-0-303-63, ReplaceEffectColorB-0-355-104-Color-0.1413043-0.05434782-0, 
+PlacedObjects: DeadTokenStalk><129.8516><1979.134><-41~-64, DeadTokenStalk><158.0528><1935.283><-54~-32, NoSpearStickZone><1537.057><486.6918><191~259, LightSource><1524.942><496.4435><0.4021739~Environment~-1451~14~-132~141.6025~1~0~None~0.2282609~0, SteamPipe><876.0601><2040.438><23~35, CustomDecal><316.975><317.6985><-183~378~482~371~398~1~-291~-27~0.2826087~0.9456522~0~lc_groupgraffiti~0.6413044~0.09782609~0.9456522~0.09782609~0.8586956~0.09782609~0.8152174~0.09782609, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><733.3023><567.4431><0.5><0.9608696, 
+FadePalette: 2, 0.1086956, 0.1956522, 0.1956522, 0.1956522
+BackgroundOffset: 108.6956,217.3913

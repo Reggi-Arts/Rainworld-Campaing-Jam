@@ -1,0 +1,15 @@
+{
+  "Title": "RWCJ The Emperor",
+  "Description": "Rainworld Campaign Jam 2024 - The emperor",
+  "ID": "rainworldcampaignjamtheemperor",
+  "Version": "0.0.1",
+  "TargetGameVersion": "v1.9.06",
+  "Requirements": "slime-cubed.slugbase,moreslugcats,regionkit,crs,fisobs",
+  "RequirementNames": "SlugBase,More Slugcats Expansion,RegionKit,Custom Regions Support,Fisobs",
+  "Authors": "RCJ team\r\n\r\nBensoneWhite - Coder\r\nFarlander - Artist\r\nReggi Arts - Leditor, Artist\r\nSidera - Musician",
+  "Visibility": "Unlisted",
+  "Tags": [],
+  "WorkshopID": 3241213067,
+  "UploadFilesOnly": false,
+  "UploadThumbnail": false
+}
