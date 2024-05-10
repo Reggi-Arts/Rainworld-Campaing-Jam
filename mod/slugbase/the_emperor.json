@@ -4,6 +4,8 @@
 	"description": "A recolored copy of The Survivor that demonstrates some custom SlugBase features.<LINE>This is a template mod for SlugBase.",
 	"features": {
 		"color": "f5384a",
+		"the_mark": true,
+		"start_room": "WV_Start",
 		"select_menu_scene": "TheEmperorSelect",
 		"sleep_scene": "TheEmperorSleep",
 		"select_menu_scene_ascended": "TheEmperorAscension",
